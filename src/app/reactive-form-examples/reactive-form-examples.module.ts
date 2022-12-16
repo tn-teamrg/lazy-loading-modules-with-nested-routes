@@ -6,11 +6,13 @@ import { ReactiveFormExamplesComponent } from './reactive-form-examples.componen
 import { NameEditorComponent } from './name-editor/name-editor.component';
 
 import { ReactiveFormsModule } from '@angular/forms';
+import { ProfileEditorComponent } from './profile-editor/profile-editor.component';
 
 @NgModule({
   declarations: [
     ReactiveFormExamplesComponent,
-    NameEditorComponent
+    NameEditorComponent,
+    ProfileEditorComponent
   ],
   imports: [
     CommonModule,

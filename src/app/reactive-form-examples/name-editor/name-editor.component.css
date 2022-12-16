@@ -8,3 +8,8 @@ label {
 button {
   max-width: 300px;
 }
+
+nav button {
+  padding: 1rem;
+  font-size: inherit;
+}
