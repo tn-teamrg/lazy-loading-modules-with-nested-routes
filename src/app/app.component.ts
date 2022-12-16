@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ng-forms-example';
+  // $ ng generate module reactive-form-examples --route reactive-form-examples --module app.module ; ng generate module template-form-examples --route template-form-examples --module app.module
 }
